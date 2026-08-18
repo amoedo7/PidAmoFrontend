@@ -1,0 +1,15 @@
+{
+  "schema": "desarrollamo.project.v1",
+  "repository": "amoedo7/PidAmoFrontend",
+  "name": "PidAmoFrontend",
+  "ecosystem": "DesarrollAMO",
+  "type": "placeholder",
+  "lifecycle": "placeholder",
+  "visibility": "public",
+  "source_of_truth": false,
+  "canonical_repository": "amoedo7/PidAmo",
+  "production_url": null,
+  "related": ["amoedo7/PidAmo", "amoedo7/PidAmoBackend"],
+  "reviewed_at": "2026-08-18",
+  "notes": ["Historical separation placeholder; no independent frontend implementation currently lives here."]
+}
